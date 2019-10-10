@@ -10,8 +10,8 @@ public class GameManager : MonoBehaviour
 
 	bool simulate = false;
 
-	int gridWidth = 20;
-	int gridHeight = 20;
+	int gridWidth = 100;
+	int gridHeight = 100;
 
 	float cellDimension = 3.3f;
 	float cellSpacing = 0.2f;

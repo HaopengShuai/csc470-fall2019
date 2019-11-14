@@ -21,17 +21,31 @@ The target for the player is to collect all coins in each level and pass all lev
 ### High bar:
 After the player pass the first level, the difficult will increase. Player has to be more careful in next levels. There will be more obstacles, and enemies will appear and attack player. At the same time, the player may need to move at high altitude, so you must always be careful to fall. 
 ### Timeline:
-11/14: Complete the design document.
-11/16: Build the terrain of the first level.
-11/17: Build the terrain of the second level.
-11/18: Build the model of the role that player will control and complete the code of player controlling.
-11/19: Build the terrain of the third level.
-11/20: Build the terrain of the fourth level.
-11/21: Build the terrain of the fourth level.
-11/23: Work on the code of moving obstacles and enemies.
-11/25: Complete the core part of my gaming, it means the player will be able to control the role to move and do run and jump operations.
-11/30: Work on the end of each level, and how to transit to next level after pass current level.
-12/2: Work on main menu, and how player get back to the main menu.
-12/4: Insert audio.
-12/8: Complete the whole game, then test and debug.
-12/12: Submit my final project.
+11/14: Complete the design document.  
+
+11/16: Build the terrain of the first level.  
+
+11/17: Build the terrain of the second level.  
+
+11/18: Build the model of the role that player will control and complete the code of player controlling.  
+
+11/19: Build the terrain of the third level.  
+
+11/20: Build the terrain of the fourth level.  
+
+11/21: Build the terrain of the fourth level.  
+
+11/23: Work on the code of moving obstacles and enemies. 
+
+11/25: Complete the core part of my gaming, it means the player will be able to control the role to move and do run and jump operations.  
+
+11/30: Work on the end of each level, and how to transit to next level after pass current level.  
+
+12/2: Work on main menu, and how player get back to the main menu.  
+
+12/4: Insert audio.  
+
+12/8: Complete the whole game, then test and debug. 
+
+12/12: Submit my final project. 
+

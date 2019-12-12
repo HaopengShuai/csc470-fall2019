@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Game_1.unity
-    guid: 5b668cd7ab9d1ae43923540faa6e9d94
-  - enabled: 1
-    path: Assets/PolygonPirates/Scenes/Demo_Main.unity
-    guid: bfa5d56a0eb50f04ba05cb6891c91214
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/UI.unity
     guid: 9ea629fbc2553f045bafb7154162df7a
+  - enabled: 1
+    path: Assets/PolygonPirates/Scenes/Demo_Main.unity
+    guid: bfa5d56a0eb50f04ba05cb6891c91214
   m_configObjects: {}
